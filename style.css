@@ -229,6 +229,7 @@ a {
 .items-center {
   align-items: center;
   padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .justify-center {
