@@ -579,6 +579,9 @@ section.sec2 {
   color: #ee9805;
   margin-bottom: 10px;
 }
+.linespace {
+  line-height: 150% !important;
+}
 
 .custom-card-item > p {
   width: 100%;
